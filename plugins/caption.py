@@ -25,5 +25,3 @@ async def see_caption(client, message):
        await message.reply_text(f"**Your Caption:-**\n\n`{caption}`")
     else:
        await message.reply_text("**😔 You Don't have any Caption**")
-Footer
-© 2022 GitHub, I
