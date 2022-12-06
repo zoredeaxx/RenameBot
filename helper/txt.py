@@ -1,10 +1,10 @@
 class mr(object):
     PROGRESS_BAR = """\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
-┣⪼ 🗂️ : {1} | {2}
-┣⪼ ⏳️ : {0}%
-┣⪼ 🚀 : {3}/s
-┣⪼ ⏱️ : {4}
+┣⊸ 🗂️ : {1} | {2}
+┣⊸ ⏳️ : {0}%
+┣⊸ 🚀 : {3}/s
+┣⊸ ⏱️ : {4}
 ╰━━━━━━━━━━━━━━━➣ """
 
     ABOUT_TXT = """
@@ -20,23 +20,26 @@ class mr(object):
     HELP_TXT = """
 🌌 <b><u>HOW TO SET THUMBNILE</u></b>
   
-•> /start a bot and send any picture to automatically set thumbnile.
-•> /delthumb use this command and delete your old thumbnile.
-•> /viewthumb use this command view your current thumbnile.
+➠ /start a bot and send any picture to automatically set thumbnile.
+➠ /delthumb use this command and delete your old thumbnile.
+➠ /viewthumb use this command view your current thumbnile.
+
 📑 <b><u>HOW TO SET CUSTOM CAPTION</u></b>
-•> /set_caption - set a custom caption
-•> /see_caption - see your custom caption
-•> /del_caption - delete custom caption
+➠ /set_caption - set a custom caption
+➠ /see_caption - see your custom caption
+➠ /del_caption - delete custom caption
+
 Example:- /set_caption 📕 File Name: {filename}
 💾 Size: {filesize}
 ⏰ Duration: {duration}
+
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
-•> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/dlaize><b> Support </b></a>
+➠ send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/dlaize><b>Support</b></a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
 <b><u>Developers</b></u> 
-• ❣️ <a href=https://github.com/dakshkohli23>ᴅʟᴀɪᴢᴇ</a>
+➠ ❣️ <a href=https://github.com/dakshkohli23>ᴅʟᴀɪᴢᴇ</a>
 """
