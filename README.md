@@ -11,7 +11,7 @@
 <details><summary>Deploy To Railway</summary>
 <p>
 <br>
-<a href="https://railway.app/new/template/">
+<a href="https://railway.app/new/">
   <img src="https://railway.app/button.svg" alt="Deploy">
 </a>
 </p>
