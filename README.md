@@ -6,15 +6,6 @@
 <p align="center"> <b> ɢᴏᴊᴏ ʀᴇɴᴀᴍᴇ ʙᴏᴛ </b> </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=dakshkohli23&repo=Gojo-Rename-Bot&theme=dark)
-
-
-### SAME BOT (Gojo-Rename-Bot)
-
-<p align="center">
-🤖 <a href="https://t.me/"><img title="Telegram" src="https://img.shields.io/static/v1?label=Gojo+Rename&message=Bot&color=blue-purple"></a> 🤖
-</p>
-
 ### DEPLOYEMENT SUPPORT
 
 <details><summary>Deploy To Railway</summary>
