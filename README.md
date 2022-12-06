@@ -1,18 +1,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#  𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
+#  ɢᴏᴊᴏ ʀᴇɴᴀᴍᴇ ʙᴏᴛ
 
 
-<p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
+<p align="center"> <b> ɢᴏᴊᴏ ʀᴇɴᴀᴍᴇ ʙᴏᴛ </b> </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-PYRO-BOTZ&repo=PYRO-RENAME-BOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=dakshkohli23&repo=Gojo-Rename-Bot&theme=dark)
 
 
-### SAME BOT (official pyro rename bot)
+### SAME BOT (Gojo-Rename-Bot)
 
 <p align="center">
-🤖 <a href="https://t.me/Pyro_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
+🤖 <a href="https://t.me/"><img title="Telegram" src="https://img.shields.io/static/v1?label=Gojo+Rename&message=Bot&color=blue-purple"></a> 🤖
 </p>
 
 ### DEPLOYEMENT SUPPORT
@@ -30,7 +30,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/dakshkohli23/Gojo-Rename-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -67,19 +67,3 @@ del_caption - delete custom caption
 users - admin only
 broadcast - admin only
 ```
-
-## ❣️Thanks to
-
-<a href="https://t.me/lntechnical">
-   <p> lntechnical TG</p>
-  </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> lntechnical YT </p>
-  </a>
-
-## 🤩 INSPIRATION
-
-<a href="https://youtube.com/c/MoTech_YT">
-   <p>❣️ MoTech 🔥</p>
-  </a>
-
