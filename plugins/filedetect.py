@@ -28,5 +28,3 @@ async def refunc(client, message):
           f"**Select the File Type**\n**• File Name :-**```{new_name}```",
           reply_to_message_id=file.id,
           reply_markup=InlineKeyboardMarkup(button))
-Footer
-© 2022 GitHub, Inc.
