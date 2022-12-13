@@ -18,7 +18,7 @@ class mr(object):
 ╰───────────────⍟
                                 """
     HELP_TXT = """
-🌌 <b><u>HOW TO SET THUMBNILE</u></b>
+🌌 <b><u>HOW TO SET THUMBNAIL</u></b>
   
 ➠ /start a bot and send any picture to automatically set thumbnile.
 ➠ /delthumb use this command and delete your old thumbnile.
@@ -34,11 +34,11 @@ Example:- /set_caption 📕 File Name: {filename}
 ⏰ Duration: {duration}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
-➠ send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
+➠ Send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choose this.
 ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/dlaize><b>Support</b></a>
 """
 
-#⚠️ don't remove our credits 🙏😢😢
+#⚠️ Don't remove our credits 🙏😢😢
     DEV_TXT = """
 <b><u>Developers</b></u> 
 ➠ ❣️ <a href=https://github.com/dakshkohli23>ᴅʟᴀɪᴢᴇ</a>
