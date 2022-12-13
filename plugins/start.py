@@ -14,7 +14,7 @@ async def start(client, message):
     user = message.from_user
     if not await db.is_user_exist(user.id):
         await db.add_user(user.id)             
-    txt=f"🤞🏻 Oii {user.mention} \nI'm a Simple Renamer + File To Video Converter Bot With Permanent Thumbnail & Custom Caption Support!⚡"
+    txt=f"🤞🏻 Hi {user.mention} \nI'm a Simple Renamer + File To Video Converter Bot With Permanent Thumbnail & Custom Caption Support!⚡"
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("👨🏻‍💻 Developer", callback_data='dev')
         ],[
@@ -60,7 +60,7 @@ async def cb_handler(client, query: CallbackQuery):
     data = query.data 
     if data == "start":
         await query.message.edit_text(
-            text=f"""🤞🏻 Oii {user.mention} \nI'm a Simple Renamer + File To Video Converter Bot With Permanent Thumbnail & Custom Caption Support!⚡ """,
+            text=f"""🤞🏻 Hi {user.mention} \nI'm a Simple Renamer + File To Video Converter Bot With Permanent Thumbnail & Custom Caption Support!⚡ """,
             reply_markup=InlineKeyboardMarkup( [[
                 InlineKeyboardButton("👨🏻‍💻 Developer", callback_data='dev')                
                 ],[
@@ -73,7 +73,7 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
+               #⚠️ Don't change source code & source link ⚠️ #
                InlineKeyboardButton("🔒 Close", callback_data = "close"),
                InlineKeyboardButton("◀️ Back", callback_data = "start")
                ]]
@@ -84,7 +84,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.ABOUT_TXT.format(client.mention),
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
+               #⚠️ Don't change source code & source link ⚠️ #
                InlineKeyboardButton("🔒 Close", callback_data = "close"),
                InlineKeyboardButton("◀️ Back", callback_data = "start")
                ]]
@@ -94,7 +94,7 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
+               #⚠️ Don't change source code & source link ⚠️ #
                InlineKeyboardButton("🔒 Close", callback_data = "close"),
                InlineKeyboardButton("◀️ Back", callback_data = "start")
                ]]
