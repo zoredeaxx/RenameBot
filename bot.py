@@ -2,7 +2,7 @@ import logging
 import logging.config
 from pyrogram import Client 
 from config import API_ID, API_HASH, BOT_TOKEN, FORCE_SUB
-
+from wserver import keep_alive
 logging.config.fileConfig('logging.conf')
 logging.getLogger().setLevel(logging.INFO)
 logging.getLogger("pyrogram").setLevel(logging.ERROR)
@@ -44,3 +44,4 @@ class Bot(Client):
         
 bot = Bot()
 bot.run()
+keep_alive() 
